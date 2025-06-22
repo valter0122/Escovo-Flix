@@ -97,7 +97,7 @@ O arquivo **`selects-pesquisas.sql`** contém 9 exemplos comentados, como:
 ## 👨‍💻 Autores
 
 * **Valter Roessle de Vasconcelos** – RA 202411488  
-* **Giovane Eyng Martinello** – RA 202411
+* **Giovane Eyng Martinello** – RA 202411498
 
 ---
 
